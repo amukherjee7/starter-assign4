@@ -9,12 +9,12 @@ A1. 15
 Q2. What is the value of the `totalMoves` variable after stepping over the first recursive sub-call?
 (In other words, within `moveTower` and just after stepping over the first recursive sub-call
 to `moveTower` inside the `else` statement.)
-A2. TODO
+A2. 7
 
 Q3. After breaking at the base case of `moveTower` and then choosing Step Out, where do you end up?
 (What function are you in, and at what line number?)
 What is the value of the `totalMoves` variable at this point?
-A3. TODO
+A3. Line 79 of the first call to the moveTower recursive function, totalMoves is 1
 
 Q4. What is the smallest possible input that you used to trigger the bug in the program?
 A4. TODO
