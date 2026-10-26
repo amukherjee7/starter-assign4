@@ -4,7 +4,7 @@ placeholders remaining in the file (and remove this comment too).
 Warmup
 ------
 Q1. What is the value of `totalMoves` after stepping over the call to `moveTower` in `hanoiAnimation`?
-A1. TODO
+A1. 15
 
 Q2. What is the value of the `totalMoves` variable after stepping over the first recursive sub-call?
 (In other words, within `moveTower` and just after stepping over the first recursive sub-call
